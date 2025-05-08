@@ -1,4 +1,4 @@
-While the code itself is heavily commented, here is the instructions:
+While the code itself is heavily commented, here are the general instructions:
 
 Use the Project file to produce the datasets. You can edit the parameters that go into the Grey-Scott model near the top of the file. There is also directories you can enter.
 
